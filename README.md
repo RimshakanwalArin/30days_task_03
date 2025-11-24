@@ -14,8 +14,13 @@ It has much more powerful multimodal capabilities meaning it can more effectivel
 4. Name any two developer tools introduced with Gemini 3.0.
 Antigravity
 Gemini CLI
+
+
+
 🌟 PART B — Practical Task (Screenshot Required)
 screenshot
+
+
 
 ![Alt text](gemini.png)
 
