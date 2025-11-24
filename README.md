@@ -17,4 +17,7 @@ Gemini CLI
 🌟 PART B — Practical Task (Screenshot Required)
 screenshot
 
+![Alt text](gemini.png)
+
+
 
